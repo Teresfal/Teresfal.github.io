@@ -6,9 +6,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="title">
+<div class="title-list">
   <div class="wrapper">
-    <h1>Что делать если запушили "неправильный" коммит в общую удаленную ветку?</h1>
+    <h1>Что делать если запушили "неправильный коммит в общую удаленную ветку"</h1>
     <p>
       сделать git revert
     </p>
