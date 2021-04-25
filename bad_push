@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>bad_push</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="title-list">
+<div class="title">
   <div class="wrapper">
     <h1>Что делать если запушили "неправильный коммит в общую удаленную ветку"</h1>
     <p>
