@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.title-list {
+.title {
   min-width: 100vw;
   min-height: 100vh;
   padding-top: 90px;
@@ -48,7 +48,7 @@
   text-align: center;
 }
 
-.title-list__title {
+.title__title {
   margin-top: 36px;
 }
 
@@ -63,9 +63,3 @@ a {
 a:hover {
   color: red;
 }
-h2:first-child,p:first-child {
-  margin-top: 0;
-}
-h2,p {
-  margin-top: 15px;
-} 
